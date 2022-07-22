@@ -4224,6 +4224,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .j_logo_title{
   margin: auto 0;
+  font-family: 'Montserrat', sans-serif;
 }
 @media (min-width: 991px) {
   .navbar {
