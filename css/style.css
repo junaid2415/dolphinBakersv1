@@ -1874,5 +1874,10 @@ p.contact_success_box{
 	.instagram-text{
 		display:none;
 	}
+	.first_hand_held{
+		border-left: 1px solid #454545;
+		padding-left: 1.25em;
+		margin : 0.75em 0.75em 0.75em 1.5em;
+	}
 	
 }
