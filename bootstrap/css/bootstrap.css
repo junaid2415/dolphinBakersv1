@@ -4221,15 +4221,17 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .j_logo{
   display: flex;
+  padding-top: 0.25em;
 }
 .j_logo_title{
   margin: auto 0;
   font-family: 'Montserrat', sans-serif;
   font-weight: bolder;
-  text-transform: capitalize;
+  text-transform: uppercase;
   letter-spacing: 1px;
   line-height: 22px;
   color: #454545;
+  padding-top: 0.5em;
 }
 @media (min-width: 991px) {
   .navbar {
