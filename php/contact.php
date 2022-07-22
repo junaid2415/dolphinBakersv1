@@ -8,7 +8,7 @@ $field_phone = $_POST['phone'];
 
 $field_message = $_POST['message'];
 
-$mail_to = 'to@email.com';
+$mail_to = 'junaidmohammad2415@gmail.com';
 
 $subject = 'Message from a site visitor '.$field_first_name;
 
